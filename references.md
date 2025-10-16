@@ -1,1 +1,4 @@
-this is some text to test a merge conflict >:)
+
+# References
+
+* octocat 1 😈
